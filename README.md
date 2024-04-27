@@ -85,10 +85,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 * [![BASH][bash]][bash-url]
-
-
 * [![SDRPP][sdrpp]][sdrpp-url]
-
+* [![OPENSSH][openssh]][openssh-url]
+* [![XRDP][xrdp]][xrdp-url]
+* [![CMAKE][cmake]][cmake-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,19 +110,44 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Set up Raspberry Pi SD Card with an appropriate OS. https://www.raspberrypi.com/software/
+2. Before ejecting the SD card, place an empty file titled SSH in the root directory, this will ensure that SSH is enabled.
+3. During initial setup as always, run:
    ```sh
-   git clone https://github.com/JFisch25200/RPI-CyberDeck.git
+   sudo apt-get update && sudo apt-get upgrade
    ```
-3. Install NPM packages
+4. Install requirements:
    ```sh
-   npm install
+	sudo apt install cmake xrdp libfftw3-dev libglfw3-dev libvolk2-dev libsoapysdr-dev libairspyhf-dev libiio-dev libad9361-dev librtaudio-dev libhackrf-dev libzstd1 libzstd-dev libairspy-dev librtlsdr-dev
+	```
+5. Process to build SDRPlusPlus:
+   ```sh
+   cd ~; mkdir tmp; cd tmp
+   unzip ~/SDRPlusPlus-master.zip ~/tmp/
+   cd SDRPlusPlus-Master
+   mkdir build; cd build
+   cmake ..
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+6. If there are any package errors:
+   ```sh
+   sudo apt search <package that was not found>
+   sudo apt install <not installed package from search>
    ```
+7. Continuation of SDRPlusPlus Build:
+   ```sh
+   make -j5
+   sudo make install 
+   cp -pv sdrpp /bin/
+   ```
+8. To run SDR++ from CLI:
+   ```sh
+   sdrpp
+   ```
+9. In order for CLI run to work on a remote session, XRDP, VNC, etc.:
+   ```sh
+   export DISPLAY=localhost:0.0
+   ```
+10. Google is your friend.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,3 +243,9 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [bash-url]: https://www.gnu.org/software/bash/
 [sdrpp]: https://shields.io/badge/SDR++-000000?style=for-the-badge&logo=SDR++&logoColor=white
 [sdrpp-url]: https://www.sdrpp.org/
+[openssh]: https://shields.io/badge/openssh-000000?style=for-the-badge&logo=openssh&logoColor=white
+[openssh-url]: https://www.openssh.com/
+[xrdp]: https://shields.io/badge/xrdp-000000?style=for-the-badge&logo=xrdp&logoColor=white
+[xrdp-url]: https://www.xrdp.org/
+[cmake]: https://shields.io/badge/cmake-000000?style=for-the-badge&logo=cmake&logoColor=white
+[cmake-url]: https://cmake.org/download
