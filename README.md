@@ -84,10 +84,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-* [![BASH][BASH.js][Bash-url]
+* [![bash][BASH][Bash-url]
 
 
-* [![SDRPP][sdrpp.js]][sdrpp-url]
+* [![SDRPP][sdrpp]][sdrpp-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
