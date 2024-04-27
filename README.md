@@ -75,8 +75,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot1]](https://example.com)
-[![Product Name Screen Shot][product-screenshot2]]
+[![Product Name Screen Shot][product-screenshot1]](https://github.com/JFisch25200/RPI-CyberDeck)
+[![Product Name Screen Shot][product-screenshot2]](https://github.com/JFisch25200/RPI-CyberDeck)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
