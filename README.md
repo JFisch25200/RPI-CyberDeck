@@ -75,9 +75,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `JFisch25200`, `RPI-CyberDeck`, `project_title`, `project_description`
+[![Product Name Screen Shot][product-screenshot1]](https://example.com)
+[![Product Name Screen Shot][product-screenshot2]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,7 +245,8 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [issues-url]: https://github.com/JFisch25200/RPI-CyberDeck/issues
 [license-shield]: https://img.shields.io/github/license/JFisch25200/RPI-CyberDeck.svg?style=for-the-badge
 [license-url]: https://github.com/JFisch25200/RPI-CyberDeck/blob/master/LICENSE.txt
-[product-screenshot]: Images/screenshot.png
+[product-screenshot1]: Images/screenshot.jpg
+[product-screenshot2]: Images/CyberDeckinLightSnow.jpg
 [bash]: https://shields.io/badge/bash-000000?style=for-the-badge&logo=bash&logoColor=white
 [bash-url]: https://www.gnu.org/software/bash/
 [sdrpp]: https://shields.io/badge/SDR++-000000?style=for-the-badge&logo=SDR++&logoColor=white
