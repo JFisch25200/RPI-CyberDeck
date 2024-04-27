@@ -99,12 +99,12 @@
 This is not a seemless installation process. Read error messages and react accordingly.
 
 ### Prerequisites
-* [hardware-case1]
-* [hardware-case2]
-* [hardware-rpi]
-* [hardware-radio]
-* [hardware-usb]
-* [hardware-power]
+* Apache Case [hardware-case1]
+* Pelican Case [hardware-case2]
+* Raspberry Pi [hardware-rpi]
+* RTL-SDR [hardware-radio]
+* USB Dongle [hardware-usb]
+* External Batery [hardware-power]
 
 * SDR++ Software (https://github.com/AlexandreRouma/SDRPlusPlus/archive/refs/heads/master.zip)
 * OpenSSH
