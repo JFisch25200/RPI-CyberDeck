@@ -84,7 +84,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-* [![BASH][bash][Bash-url]
+* [![BASH][bash]][bash-url]
 
 
 * [![SDRPP][sdrpp]][sdrpp-url]
@@ -215,6 +215,6 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [license-url]: https://github.com/JFisch25200/RPI-CyberDeck/blob/master/LICENSE.txt
 [product-screenshot]: Images/screenshot.png
 [bash]: https://shields.io/badge/bash-000000?style=for-the-badge&logo=bash&logoColor=white
-[Bash-url]: https://www.gnu.org/software/bash/
+[bash-url]: https://www.gnu.org/software/bash/
 [sdrpp]: https://shields.io/badge/SDR++-000000?style=for-the-badge&logo=SDR++&logoColor=white
 [sdrpp-url]: https://www.sdrpp.org/
