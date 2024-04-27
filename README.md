@@ -99,23 +99,23 @@
 This is not a seemless installation process. Read error messages and react accordingly.
 
 ### Prerequisites
-* Apache Case [hardware-case1]
+* [![Apache Case]][hardware-case1]
 * Pelican Case [hardware-case2]
 * Raspberry Pi [hardware-rpi]
 * RTL-SDR [hardware-radio]
 * USB Dongle [hardware-usb]
 * External Batery [hardware-power]
 
-* SDR++ Software (https://github.com/AlexandreRouma/SDRPlusPlus/archive/refs/heads/master.zip)
-* OpenSSH
+* SDR++ Software [software-sdrpp]
+* OpenSSH [openssh-url]
    ```sh
    sudo apt install openssh
    ```
-* cmake
+* cmake [cmake-url]
    ```sh
    sudo apt install cmake
    ```
-* XRDP
+* XRDP [xrdp-url]
    ```sh
    sudo apt install xrdp
    ```
@@ -269,3 +269,4 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [hardware-radio]: https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD7558GT/
 [hardware-usb]: https://www.amazon.com/Targus-4-Port-USB-3-0-ACH124US/dp/B00P937GQ4
 [hardware-power]: https://www.aukey.com/products/aukey-pb-n93a-usb-c-power-bank-20000mah-pd-ultra-slim-power-bank-with-18w-pd
+[software-sdrpp]: https://github.com/AlexandreRouma/SDRPlusPlus/archive/refs/heads/master.zip
