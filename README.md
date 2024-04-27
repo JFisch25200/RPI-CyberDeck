@@ -99,12 +99,12 @@
 This is not a seemless installation process. Read error messages and react accordingly.
 
 ### Prerequisites
-* [![HARDWARE][hardware-case1]]
-* [![HARDWARE][hardware-case2]]
-* [![HARDWARE][hardware-rpi]]
-* [![HARDWARE][hardware-radio]]
-* [![HARDWARE][hardware-usb]]
-* [![HARDWARE][hardware-power]]
+* [hardware-case1]
+* [hardware-case2]
+* [hardware-rpi]
+* [hardware-radio]
+* [hardware-usb]
+* [hardware-power]
 
 * SDR++ Software (https://github.com/AlexandreRouma/SDRPlusPlus/archive/refs/heads/master.zip)
 * OpenSSH
