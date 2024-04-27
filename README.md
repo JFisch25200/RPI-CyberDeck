@@ -99,8 +99,13 @@
 This is not a seemless installation process. Read error messages and react accordingly.
 
 ### Prerequisites
+* [![HARDWARE][hardware-case1]]
+* [![HARDWARE][hardware-case2]]
+* [![HARDWARE][hardware-rpi]]
+* [![HARDWARE][hardware-radio]]
+* [![HARDWARE][hardware-usb]]
+* [![HARDWARE][hardware-power]]
 
-* Raspberry Pi
 * SDR++ Software (https://github.com/AlexandreRouma/SDRPlusPlus/archive/refs/heads/master.zip)
 * OpenSSH
    ```sh
@@ -258,3 +263,9 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [xrdp-url]: https://www.xrdp.org/
 [cmake]: https://shields.io/badge/cmake-000000?style=for-the-badge&logo=cmake&logoColor=white
 [cmake-url]: https://cmake.org/download
+[hardware-case1]: https://www.harborfreight.com/1800-weatherproof-protective-case-small-black-64550.html
+[hardware-case2]: https://www.pelican.com/us/en/product/cases/protector/1200
+[hardware-rpi]: https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+[hardware-radio]: https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD7558GT/
+[hardware-usb]: https://www.amazon.com/Targus-4-Port-USB-3-0-ACH124US/dp/B00P937GQ4
+[hardware-power]: https://www.aukey.com/products/aukey-pb-n93a-usb-c-power-bank-20000mah-pd-ultra-slim-power-bank-with-18w-pd
