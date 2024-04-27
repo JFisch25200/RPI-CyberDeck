@@ -76,7 +76,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot1]](https://github.com/JFisch25200/RPI-CyberDeck)
-[![Product Name Screen Shot][product-screenshot2]](https://github.com/JFisch25200/RPI-CyberDeck)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,8 +164,9 @@ This is not a seemless installation process. Read error messages and react accor
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+[![Product Name Screen Shot][product-screenshot2]](https://github.com/JFisch25200/RPI-CyberDeck)
+[![Product Name Screen Shot][product-screenshot3]] (https://github.com/JFisch25200/RPI-CyberDeck)
+_For more examples, please refer to the [Documentation](https://github.com/JFisch25200/RPI-CyberDeck/blob/main/Docs/SDRPP-manual.pdf)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,10 +175,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [X] Create Portable Raspberry Pi with RTL-SDR Capability
+- [ ] Get it to function properly
+
 
 See the [open issues](https://github.com/JFisch25200/RPI-CyberDeck/issues) for a full list of proposed features (and known issues).
 
@@ -247,6 +247,7 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [license-url]: https://github.com/JFisch25200/RPI-CyberDeck/blob/master/LICENSE.txt
 [product-screenshot1]: Images/screenshot.jpg
 [product-screenshot2]: Images/CyberDeckinLightSnow.jpg
+[product-screenshot3]: Images/cmake-sdrpp.png
 [bash]: https://shields.io/badge/bash-000000?style=for-the-badge&logo=bash&logoColor=white
 [bash-url]: https://www.gnu.org/software/bash/
 [sdrpp]: https://shields.io/badge/SDR++-000000?style=for-the-badge&logo=SDR++&logoColor=white
