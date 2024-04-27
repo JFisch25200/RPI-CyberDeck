@@ -165,7 +165,7 @@ This is not a seemless installation process. Read error messages and react accor
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 [![Product Name Screen Shot][product-screenshot2]](https://github.com/JFisch25200/RPI-CyberDeck)
-[![Product Name Screen Shot][product-screenshot3]] (https://github.com/JFisch25200/RPI-CyberDeck)
+[![Product Name Screen Shot][product-screenshot3]](https://github.com/JFisch25200/RPI-CyberDeck)
 _For more examples, please refer to the [Documentation](https://github.com/JFisch25200/RPI-CyberDeck/blob/main/Docs/SDRPP-manual.pdf)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
