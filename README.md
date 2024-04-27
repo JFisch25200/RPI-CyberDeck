@@ -214,7 +214,7 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [license-shield]: https://img.shields.io/github/license/JFisch25200/RPI-CyberDeck.svg?style=for-the-badge
 [license-url]: https://github.com/JFisch25200/RPI-CyberDeck/blob/master/LICENSE.txt
 [product-screenshot]: Images/screenshot.png
-[BASH.js]: https://d33wubrfki0l68.cloudfront.net/45825999a370278a2d392daafce3e7a95de0fff2/3bada/img/logo/svg/full_colored_light.svg
+[BASH]: https://shields.io/badge/bash-000000?style=for-the-badge&logo=bash&logoColor=white
 [Bash-url]: https://www.gnu.org/software/bash/
-[sdrpp.js]: https://www.sdrpp.org/res/sdrpp.png
+[sdrpp]: https://shields.io/badge/SDR++-000000?style=for-the-badge&logo=SDR++&logoColor=white
 [sdrpp-url]: https://www.sdrpp.org/
