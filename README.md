@@ -249,7 +249,7 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/JFisch25200/RPI-CyberDeck.svg?style=for-the-badge
 [issues-url]: https://github.com/JFisch25200/RPI-CyberDeck/issues
 [license-shield]: https://img.shields.io/github/license/JFisch25200/RPI-CyberDeck.svg?style=for-the-badge
-[license-url]: https://github.com/JFisch25200/RPI-CyberDeck/blob/master/LICENSE.txt
+[license-url]: https://github.com/JFisch25200/RPI-CyberDeck/blob/main/LICENSE
 [product-screenshot1]: Images/screenshot.jpg
 [product-screenshot2]: Images/CyberDeckinLightSnow.jpg
 [product-screenshot3]: Images/cmake-sdrpp.png
