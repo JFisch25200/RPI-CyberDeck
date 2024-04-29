@@ -99,7 +99,7 @@
 This is not a seemless installation process. Read error messages and react accordingly.
 
 ### Prerequisites
-* Apache Case [![hardware-case1]]
+* Apache Case [hardware-case1]
 * Pelican Case [hardware-case2]
 * Raspberry Pi [hardware-rpi]
 * RTL-SDR [hardware-radio]
