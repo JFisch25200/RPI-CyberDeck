@@ -100,6 +100,7 @@ This is not a seemless installation process. Read error messages and react accor
 
 ### Prerequisites
 * Apache Case [hardware-case1]
+* [![APACHE CASE][Apache Case]][hardware-case1]
 * Pelican Case [hardware-case2]
 * Raspberry Pi [hardware-rpi]
 * RTL-SDR [hardware-radio]
@@ -263,6 +264,7 @@ Project Link: [https://github.com/JFisch25200/RPI-CyberDeck](https://github.com/
 [xrdp-url]: https://www.xrdp.org/
 [cmake]: https://shields.io/badge/cmake-000000?style=for-the-badge&logo=cmake&logoColor=white
 [cmake-url]: https://cmake.org/download
+[Apache Case]: Apache Case
 [hardware-case1]: https://www.harborfreight.com/1800-weatherproof-protective-case-small-black-64550.html
 [hardware-case2]: https://www.pelican.com/us/en/product/cases/protector/1200
 [hardware-rpi]: https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
