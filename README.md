@@ -100,22 +100,22 @@ This is not a seemless installation process. Read error messages and react accor
 
 ### Prerequisites
 * [Apache Case][hardware-case1]
-* Pelican Case [hardware-case2]
-* Raspberry Pi [hardware-rpi]
-* RTL-SDR [hardware-radio]
-* USB Dongle [hardware-usb]
-* External Batery [hardware-power]
+* [Pelican Case][hardware-case2]
+* [Raspberry Pi][hardware-rpi]
+* [RTL-SDR][hardware-radio]
+* [USB Dongle][hardware-usb]
+* [External Batery][hardware-power]
 
-* SDR++ Software [software-sdrpp]
-* OpenSSH [openssh-url]
+* [SDR++ Software][software-sdrpp]
+* [OpenSSH][openssh-url]
    ```sh
    sudo apt install openssh
    ```
-* cmake [cmake-url]
+* [cmake][cmake-url]
    ```sh
    sudo apt install cmake
    ```
-* XRDP [xrdp-url]
+* [XRDP][xrdp-url]
    ```sh
    sudo apt install xrdp
    ```
